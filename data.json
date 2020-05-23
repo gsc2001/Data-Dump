@@ -5,9 +5,11 @@
     "difficulty": "Intermediate",
     "duration": "Half semester",
     "syllabus": "HTML5, CSS, Python, Javascript, Bash",
-    "resources": ["Internet", "Book"],
+    "resources": "Internet, Book",
     "year": 1,
     "semester": 2,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Programming", "Web"]
   },
   {
@@ -16,9 +18,11 @@
     "difficulty": "Intermediate",
     "duration": "Full semester",
     "syllabus": "Trees, Graph, Heaps, Hashing",
-    "resources": ["Internet", "CLRS Book"],
+    "resources": "Internet, CLRS Book",
     "year": 1,
     "semester": 2,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Programming", "Algorithms", "Graphs", "Data Structures"]
   },
   {
@@ -27,9 +31,11 @@
     "difficulty": "Intermediate",
     "duration": "Full semester",
     "syllabus": "Matrices, Eigen Values and vectors, Determinants",
-    "resources": ["Internet", "Gilbert Strang"],
+    "resources": "Internet, Gilbert Strang",
     "year": 1,
     "semester": 2,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Maths"]
   },
   {
@@ -38,9 +44,11 @@
     "difficulty": "Beginner",
     "duration": "Half semester",
     "syllabus": "Arduino, Cloud and Edge Computing, Vehicle Connectivity, Smart Homes",
-    "resources": ["Slides"],
+    "resources": "Slides",
     "year": 1,
     "semester": 2,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Electronics", "Smart Connectivity"]
   },
   {
@@ -49,9 +57,11 @@
     "difficulty": "Advanced",
     "duration": "Full semester",
     "syllabus": "X86 Architecture, Y86 Architecture",
-    "resources": ["Internet", "Book"],
+    "resources": "Internet, Book",
     "year": 1,
     "semester": 2,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Assembly Language", "Processor"]
   },
   {
@@ -60,9 +70,11 @@
     "difficulty": "Beginner",
     "duration": "Full semester",
     "syllabus": "Basic Graph Terminology, Probability, Boolean Logic",
-    "resources": ["Internet", "Book"],
+    "resources": "Internet, Book",
     "year": 1,
     "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Graphs", "Maths", "Logic"]
   },
   {
@@ -71,9 +83,11 @@
     "difficulty": "Intermediate",
     "duration": "Full semester",
     "syllabus": "Complex Numbers, Complex Integration",
-    "resources": ["Internet", "Book"],
+    "resources": "Internet, Book",
     "year": 1,
     "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Integration", "Maths"]
   },
   {
@@ -82,9 +96,11 @@
     "difficulty": "Beginner",
     "duration": "Full semester",
     "syllabus": "Boolean Logic, Basic processor design, Sequential logic",
-    "resources": ["Internet", "Book", "Slides"],
+    "resources": "Internet, Book, Slides",
     "year": 1,
     "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Electronics", "Processor", "Logic"]
   },
   {
@@ -93,9 +109,11 @@
     "difficulty": "Beginner",
     "duration": "Full semester",
     "syllabus": "Basic C Data Types, Standard Algorithms such as Divide and Conquer, Greedy, DP",
-    "resources": ["Internet", "Book"],
+    "resources": "Internet, Book",
     "year": 1,
     "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Programming", "Algorithms"]
   },
   {
@@ -104,9 +122,11 @@
     "difficulty": "Advanced",
     "duration": "Full semester",
     "syllabus": "Network and circuit analysis along with Fourier/ laplace transformation",
-    "resources": ["Neso academy"],
+    "resources": "Neso academy",
     "year": 1,
     "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Electronics", "Network", "Signals"]
   },
   {
@@ -115,9 +135,11 @@
     "difficulty": "Intermediate",
     "duration": "Full semester",
     "syllabus": "Mos Transistors",
-    "resources": ["College recommended textbook (sedra smith)", "Razavi CMOS designs book", "Razavi electronics 1 and electronics 2 video lectures (youtube)"],
+    "resources": "College recommended textbook (sedra smith), Razavi CMOS designs book, Razavi electronics 1 and electronics 2 video lectures (youtube)",
     "year": 1,
     "semester": 2,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Electronics"]
   },
   {
@@ -126,9 +148,11 @@
     "difficulty": "Intermediate",
     "duration": "Full semester",
     "syllabus": "Introduction to signals, probability ( random variables ),  source coding, error detection and correction",
-    "resources": ["Lectures notes provided by prof", "Elements of information theory by Thomas M (book is excessive for this course)"],
+    "resources": "Lectures notes provided by prof, Elements of information theory by Thomas M (book is excessive for this course)",
     "year": 1,
     "semester": 2,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Electronics", "Communication"]
   },
   {
@@ -137,9 +161,11 @@
     "difficulty": "Low",
     "duration": "Full semester",
     "syllabus": "workshop course (vary according to instructor)",
-    "resources": ["Internet"],
+    "resources": "Internet",
     "year": 1,
     "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Electronics", "workshop"]
   },
   {
@@ -148,9 +174,11 @@
     "difficulty": "Low",
     "duration": "Full semester",
     "syllabus": "Core concepts of linguistics",
-    "resources": ["Victoria Fromkin's an introduction to language"],
+    "resources": "Victoria Fromkin's an introduction to language",
     "year": 1,
     "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
     "tags": ["Linguistics"]
   }
 ]

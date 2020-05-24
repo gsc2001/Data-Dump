@@ -10,7 +10,9 @@
     "semester": 2,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Programming", "Web"]
+    "tags": ["Programming", "Web"],
+    "instructor" : "Raghu Reddy",
+    "pace":"fast"
   },
   {
     "id": 1,
@@ -23,7 +25,9 @@
     "semester": 2,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Programming", "Algorithms", "Graphs", "Data Structures"]
+    "tags": ["Programming", "Algorithms", "Graphs", "Data Structures"],
+    "instructor" : "Anoop M. Namboodiri",
+    "pace":"moderate"
   },
   {
     "id": 2,
@@ -36,7 +40,9 @@
     "semester": 2,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Maths"]
+    "tags": ["Maths"],
+    "instructor" : "Prasad Krishnan / Indraneel",
+    "pace":"moderate"
   },
   {
     "id": 3,
@@ -49,7 +55,9 @@
     "semester": 2,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Electronics", "Smart Connectivity"]
+    "tags": ["Electronics", "Smart Connectivity"],
+    "instructor" : "Deepak Gangadharan",
+    "pace":"fast"
   },
   {
     "id": 4,
@@ -62,7 +70,9 @@
     "semester": 2,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Assembly Language", "Processor"]
+    "tags": ["Assembly Language", "Processor"],
+    "instructor" : "Avinash Sharma",
+    "pace":"fast"
   },
   {
     "id": 5,
@@ -75,7 +85,9 @@
     "semester": 1,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Graphs", "Maths", "Logic"]
+    "tags": ["Graphs", "Maths", "Logic"],
+    "instructor" : "Pawan Kumar",
+    "pace":"fast"
   },
   {
     "id": 6,
@@ -88,7 +100,9 @@
     "semester": 1,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Integration", "Maths"]
+    "tags": ["Integration", "Maths"],
+    "instructor" : "Lakshmi B.S",
+    "pace":"moderate"
   },
   {
     "id": 7,
@@ -101,7 +115,9 @@
     "semester": 1,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Electronics", "Processor", "Logic"]
+    "tags": ["Electronics", "Processor", "Logic"],
+    "instructor" : "Aftab Hussain",
+    "pace":"fast"
   },
   {
     "id": 8,
@@ -114,7 +130,9 @@
     "semester": 1,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Programming", "Algorithms"]
+    "tags": ["Programming", "Algorithms"],
+    "instructor" : "Vineet Gandhi",
+    "pace":"moderate"
   },
   {
     "id": 9,
@@ -127,7 +145,9 @@
     "semester": 1,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Electronics", "Network", "Signals"]
+    "tags": ["Electronics", "Network", "Signals"],
+    "instructor" : "Jayanthi Sivaswamy",
+    "pace":"moderate"
   },
   {
     "id": 10,
@@ -140,7 +160,9 @@
     "semester": 2,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Electronics"]
+    "tags": ["Electronics"],
+    "instructor" : "Zia Abbas",
+    "pace":"moderate"
   },
   {
     "id": 11,
@@ -153,7 +175,9 @@
     "semester": 2,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Electronics", "Communication"]
+    "tags": ["Electronics", "Communication"],
+    "instructor" : "Lalitha Vadlamani",
+    "pace":"moderate"
   },
   {
     "id": 12,
@@ -166,7 +190,9 @@
     "semester": 1,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Electronics", "workshop"]
+    "tags": ["Electronics", "workshop"],
+    "instructor" : "Azeemuddin Syed",
+    "pace":"moderate"
   },
   {
     "id": 13,
@@ -179,6 +205,128 @@
     "semester": 1,
     "syllabus-one" : "Something was covered",
     "resource-one" : "Learn from anywhere-the whole world",
-    "tags": ["Linguistics"]
+    "tags": ["Linguistics"],
+    "instructor" : "Dipti Sharma",
+    "pace":"moderate"
+  },
+  {
+    "id": 14,
+    "name": "Probability and Statistics",
+    "difficulty": "Intermediate",
+    "duration": "Full semester",
+    "syllabus": "Permutation Combination and Counting, Random Processes, Markov Chains and Processes, Information Theory",
+    "resources": "MIT OCW",
+    "year": 2,
+    "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
+    "tags": ["Maths", "Probability"],
+    "instructor" : "Girish Verma",
+    "pace":"moderate"
+  },
+  {
+    "id": 15,
+    "name": "Operating Systems",
+    "difficulty": "Intermediate",
+    "duration": "Full semester",
+    "syllabus": "How operating systems work",
+    "resources": "Operating System Concepts-Silberschatz",
+    "year": 2,
+    "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
+    "tags": ["Architecture"],
+    "instructor" : "PK Reddy",
+    "pace":"moderate"
+  },
+  {
+    "id": 16,
+    "name": "Embedded Systems Workshop",
+    "difficulty": "Low",
+    "duration": "Full semester",
+    "syllabus": "A project involving embedded systems",
+    "resources": "Nothing as such. If you are really interested, build an arduino based project in vacations at home",
+    "year": 2,
+    "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
+    "tags": ["Workshop"],
+    "instructor" : "Many",
+    "pace":"moderate"
+  },
+  {
+    "id": 17,
+    "name": "Algorithms analysis and Design",
+    "difficulty": "Intermediate",
+    "duration": "Full semester",
+    "syllabus": "Various algorithms. But their theory only. No coding/implementation",
+    "resources": "For course specific reading, you'll need to know of the algorithms which were covered in the course and read them from various sources. However, in general, CLRS is a good book to study algorithms",
+    "year": 2,
+    "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
+    "tags": ["Algorithms", "Programming"],
+    "instructor" : "Dr. Kanan Srinathan",
+    "pace":"moderate"
+  },
+  {
+    "id": 18,
+    "name": "Science-I(Chemistry)",
+    "difficulty": "Low",
+    "duration": "Full semester",
+    "syllabus": "Thermodynamics at a more derivational level i.e. derivations of formulae etc.",
+    "resources": "Nothing specific. Class notes are generally good enough (If you make notes properly)",
+    "year": 2,
+    "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
+    "tags": ["Science"],
+    "instructor" : "Marimuthu Krishna",
+    "pace":"moderate"
+  },
+  {
+    "id": 19,
+    "name": "Automata Theory",
+    "difficulty": "Intermediate",
+    "duration": "Full semester",
+    "syllabus": "How machines work. (Automata means machines), Finite State Machines etc.",
+    "resources": "Introduction to theory of computation by Michael Sipser. (Really good book). The course covers first 2 chapters of the book",
+    "year": 2,
+    "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
+    "tags": ["Machines"],
+    "instructor" : "Venkatesh Choppala",
+    "pace":"moderate"
+  },
+  {
+    "id": 20,
+    "name": "Data and Applications",
+    "difficulty": "Low",
+    "duration": "Full semester",
+    "syllabus": "Database concepts (like relational models, ER diagrams etc.)",
+    "resources": "Theory part is easy to understand and not much. For practical part, SQL is used. And you can use any online site for reference tutorialPoint might be good. Any other site also works",
+    "year": 2,
+    "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
+    "tags": ["Databases", "SQL"],
+    "instructor" : "Kamal Karlapalem",
+    "pace":"moderate"
+  },
+  {
+    "id": 21,
+    "name": "Signal Processing",
+    "difficulty": "Intermediate",
+    "duration": "Full semester",
+    "syllabus": "Signal Processing (Continuous time and Discrete time) , Fourier Transform, Filter Design and Matlab based labs and assignments",
+    "resources": "Signals and Systems Book by Alan S. Willsky, Alan V. Oppenheim, and Ian T. Young",
+    "year": 2,
+    "semester": 1,
+    "syllabus-one" : "Something was covered",
+    "resource-one" : "Learn from anywhere-the whole world",
+    "tags": ["Signal", "Electronics"],
+    "instructor" : "Santosh Nannuru",
+    "pace":"moderate"
   }
 ]
